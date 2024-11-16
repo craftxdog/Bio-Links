@@ -1,3 +1,3 @@
 # Bio-Links for Craftzbug
 
-https://devaslife.io.links.craftz.bug/
+https://links-craftz-bug.devaslife.io
